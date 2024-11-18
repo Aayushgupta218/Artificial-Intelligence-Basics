@@ -2,7 +2,7 @@
 #include <vector>
 #include <map>
 using namespace std;
-// open linear algebra  omp.h
+// open linear algebra  omp.h for more optimization
 
 vector<vector<bool>> Knight_board;
 map<bool, char> mapping = {{true, 'K'}, {false, '-'}};
